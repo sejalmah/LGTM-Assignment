@@ -12,6 +12,8 @@ Enable "Developer mode" in the top right corner.
 Click on "Load unpacked" and select the directory where you cloned the repository.
 The extension should now be installed and active.
 
+Technologies Used: JavaScript, Chrome Extension APIs.
+
 # Usage
 Once installed, visit the LinkedIn homepage.
 The extension will automatically replace all profile pictures with the specified image.
