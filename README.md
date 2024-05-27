@@ -19,3 +19,4 @@ The extension will automatically replace all profile pictures with the specified
 # Snippets
 https://github.com/sejalmah/LGTM-Assignment/assets/72298689/c9bbc0c8-ba4c-4c2f-9eb3-ee1d22b0ecbe
 https://github.com/sejalmah/LGTM-Assignment/assets/72298689/b80473bc-4ae7-4896-97b5-763a30fbf4a3
+<img width="698" alt="Screenshot 2024-05-27 at 8 33 10 PM" src="https://github.com/sejalmah/LGTM-Assignment/assets/72298689/b80473bc-4ae7-4896-97b5-763a30fbf4a3">
